@@ -1,0 +1,8 @@
+C:\Users\xx\Desktop\if2\if2\bin\Debug\if2.exe.config
+C:\Users\xx\Desktop\if2\if2\bin\Debug\if2.exe
+C:\Users\xx\Desktop\if2\if2\bin\Debug\if2.pdb
+C:\Users\xx\Desktop\if2\if2\obj\Debug\if2.csproj.AssemblyReference.cache
+C:\Users\xx\Desktop\if2\if2\obj\Debug\if2.csproj.SuggestedBindingRedirects.cache
+C:\Users\xx\Desktop\if2\if2\obj\Debug\if2.csproj.CoreCompileInputs.cache
+C:\Users\xx\Desktop\if2\if2\obj\Debug\if2.exe
+C:\Users\xx\Desktop\if2\if2\obj\Debug\if2.pdb
