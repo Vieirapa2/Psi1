@@ -1,0 +1,8 @@
+C:\Users\xx\Desktop\psi 1 11\idade\idade\bin\Debug\idade.exe.config
+C:\Users\xx\Desktop\psi 1 11\idade\idade\bin\Debug\idade.exe
+C:\Users\xx\Desktop\psi 1 11\idade\idade\bin\Debug\idade.pdb
+C:\Users\xx\Desktop\psi 1 11\idade\idade\obj\Debug\idade.csproj.AssemblyReference.cache
+C:\Users\xx\Desktop\psi 1 11\idade\idade\obj\Debug\idade.csproj.SuggestedBindingRedirects.cache
+C:\Users\xx\Desktop\psi 1 11\idade\idade\obj\Debug\idade.csproj.CoreCompileInputs.cache
+C:\Users\xx\Desktop\psi 1 11\idade\idade\obj\Debug\idade.exe
+C:\Users\xx\Desktop\psi 1 11\idade\idade\obj\Debug\idade.pdb
