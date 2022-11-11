@@ -1,0 +1,8 @@
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\bin\Debug\metodo exercicio com return.exe.config
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\bin\Debug\metodo exercicio com return.exe
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\bin\Debug\metodo exercicio com return.pdb
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\obj\Debug\metodo exercicio com return.csproj.AssemblyReference.cache
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\obj\Debug\metodo exercicio com return.csproj.SuggestedBindingRedirects.cache
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\obj\Debug\metodo exercicio com return.csproj.CoreCompileInputs.cache
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\obj\Debug\metodo exercicio com return.exe
+C:\Users\xx\Desktop\psi 1 11\metodo exercicio com return\metodo exercicio com return\obj\Debug\metodo exercicio com return.pdb

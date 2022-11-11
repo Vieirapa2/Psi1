@@ -1,0 +1,8 @@
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\bin\Debug\cont materia.exe.config
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\bin\Debug\cont materia.exe
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\bin\Debug\cont materia.pdb
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\obj\Debug\cont materia.csproj.AssemblyReference.cache
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\obj\Debug\cont materia.csproj.SuggestedBindingRedirects.cache
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\obj\Debug\cont materia.csproj.CoreCompileInputs.cache
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\obj\Debug\cont materia.exe
+C:\Users\xx\Desktop\psi 1 11\cont materia\cont materia\obj\Debug\cont materia.pdb

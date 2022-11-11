@@ -1,0 +1,8 @@
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\obj\Debug\metodo.csproj.AssemblyReference.cache
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\obj\Debug\metodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\obj\Debug\metodo.csproj.CoreCompileInputs.cache
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\bin\Debug\metodo.exe.config
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\bin\Debug\metodo.exe
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\bin\Debug\metodo.pdb
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\obj\Debug\metodo.exe
+C:\Users\xx\Desktop\psi 1 11\metodo\metodo\obj\Debug\metodo.pdb
